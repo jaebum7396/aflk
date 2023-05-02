@@ -1,5 +1,5 @@
 # aflk
-MSA로 구성된 포트폴리오 프로젝트 입니다.
+MSA로 구성된 프로젝트 입니다.
 
 ## Getting Started
 
