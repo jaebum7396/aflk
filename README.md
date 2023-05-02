@@ -1,6 +1,6 @@
 # aflk
-스프링 클라우드를 이용해 MSA(Micro Service Architecture)로 구성한 프로젝트 입니다.  
-EC2, docker, jenkins를 통해 CICD를 구축하였고 각 서비스는 스프링부트, 그래들을 이용하여 구현하였습니다.  
+  스프링 클라우드를 이용해 MSA(Micro Service Architecture)로 구성한 프로젝트 입니다.
+  EC2, docker, jenkins를 통해 CICD를 구축하였고 각 서비스는 스프링부트, 그래들을 이용하여 구현하였습니다.  
 
 ### 구현방법
 ```
