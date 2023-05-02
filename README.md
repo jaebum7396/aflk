@@ -1,5 +1,5 @@
 # aflk
-MSA로 구성된 프로젝트 입니다.
+MSA(Micro Service Architecture)로 구성된 프로젝트 입니다.
 
 ## 구성
 * [discovery](https://github.com/jaebum7396/discovery) -- 로드밸런싱을 위한 디스커버리 서비스 netflix eureka
