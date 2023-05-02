@@ -3,7 +3,7 @@ MSA(Micro Service Architecture)로 구성된 프로젝트 입니다.
 
 ### 구현방법
 ```
-Java11, Spring Boot, 스프링 시큐리티, 스프링 클라우드, JPA, mysql, Gradle
+Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, AWS EC2(t3.medium)
 ```
 ### 프로젝트 구성
 * [discovery](https://github.com/jaebum7396/discovery) -- 로드밸런싱을 위한 디스커버리 서비스 netflix eureka
