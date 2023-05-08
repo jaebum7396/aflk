@@ -5,7 +5,7 @@
 
 ### 구현방법
 ```
-Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, AWS EC2(t3.medium)
+Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker
 ```
 ### 프로젝트 구성
 
