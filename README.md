@@ -5,7 +5,7 @@
 
 ### 구현방법
 ```
-Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker
+Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis
 ```
 ### 프로젝트 구성
 
@@ -18,5 +18,5 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 
 #### service
 * [user](https://github.com/jaebum7396/user) : 회원가입 및 유저정보 서비스([swagger](http://52.79.162.165:8000/user/swagger-ui/))
-* [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 채팅 서비스를 위한 웹소켓서버 redis서버 와 gateway에 의해 병렬로 구성됨(현재 2개)
+* [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 채팅 서비스를 위한 웹소켓서버 병렬로 구성됨(현재 2개)
 * [auth](https://github.com/jaebum7396/auth) : 권한(로그인) 서비스([swagger](http://52.79.162.165:8000/auth/swagger-ui/)) -- 삭제 예정(설계상 user와 상당부분 겹침)
