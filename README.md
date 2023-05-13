@@ -17,7 +17,7 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 * [client](http://52.79.162.165:3000/chat/login) : 프로젝트 ui
 
 #### service
-* [user](https://github.com/jaebum7396/user) : 회원가입 및 유저정보 서비스 - ([swagger](http://52.79.162.165:8000/user/swagger-ui/))
+* [user](https://github.com/jaebum7396/user) : 회원가입 및 유저정보 API - ([swagger](http://52.79.162.165:8000/user/swagger-ui/))
 * [chat](https://github.com/jaebum7396/chat) : 채팅 API - ([swagger](http://52.79.162.165:8000/chat/swagger-ui/))
 * [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서버 병렬로 구성됨
 
