@@ -1,7 +1,7 @@
 # AFLK([http://www.aflk-chat.com](http://www.aflk-chat.com/chat/login)) <-- UI 바로가기
-  <div style='width:100%; display:flex; justify-content:center;'>
-    <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/6fb9f5a9-751e-411b-a586-86aa38094fe3' style='' />  
-  </div>
+  <p>
+    <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/6fb9f5a9-751e-411b-a586-86aa38094fe3' style='width:40%;' />  
+  </p>
   
   스프링 클라우드를 이용해 MSA(Micro Service Architecture)로 구성한 프로젝트 입니다.  
   EC2, docker, jenkins를 통해 CICD를 구축하였고  
