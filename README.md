@@ -1,5 +1,5 @@
 # AFLK([http://www.aflk-chat.com](http://www.aflk-chat.com/chat/login)) <-- UI 바로가기
-  <p>
+  <p align="center">
     <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/6fb9f5a9-751e-411b-a586-86aa38094fe3' style='width:40%;' />  
   </p>
   
