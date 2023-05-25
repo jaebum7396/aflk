@@ -14,10 +14,10 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 ### 프로젝트 구성
 
 #### devops
-* [discovery](https://github.com/jaebum7396/discovery) : 로드밸런싱을 위한 디스커버리 서비스 netflix eureka
-* [gateway](https://github.com/jaebum7396/gateway) : jwt 인증 및 각 서비스 라우팅을 위한 게이트웨이 서비스
+* [discovery](https://github.com/jaebum7396/discovery) : 로드밸런싱을 위한 디스커버리 netflix eureka
+* [gateway](https://github.com/jaebum7396/gateway) : jwt 인증 및 각 서비스 라우팅을 위한 게이트웨이
 
-#### FE
+#### fe
 * [client](http://www.aflk-chat.com/chat/login) : 프로젝트 ui
 
 #### service
