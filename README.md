@@ -2,7 +2,6 @@
   <p align="center">
     <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/6fb9f5a9-751e-411b-a586-86aa38094fe3' style='width:60%;' />  
   </p>
-  
   스프링 클라우드를 이용해 MSA(Micro Service Architecture)로 구성한 프로젝트 입니다.  
   EC2, docker, jenkins를 통해 CICD를 구축하였고  
   각 서비스는 스프링부트, 그래들을 이용하여 구현하였습니다.  
@@ -22,6 +21,8 @@
 Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis
 ```
 ### 프로젝트 구성
+
+<img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/79d0e1fe-56dd-4aa9-a99d-80dce908ecb3' style='width:50%' />
 
 #### devops
 * [discovery](https://github.com/jaebum7396/discovery) : 로드밸런싱을 위한 디스커버리 netflix eureka
