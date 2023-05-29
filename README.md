@@ -21,8 +21,9 @@
 Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis
 ```
 ### 프로젝트 구성
-
-<img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/79d0e1fe-56dd-4aa9-a99d-80dce908ecb3' style='width:50%' />
+<p align="center">
+<img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/79d0e1fe-56dd-4aa9-a99d-80dce908ecb3' style='width:60%' />
+</p>
 
 #### devops
 * [discovery](https://github.com/jaebum7396/discovery) : 로드밸런싱을 위한 디스커버리 netflix eureka
