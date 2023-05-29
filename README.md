@@ -35,5 +35,3 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 * [chat](https://github.com/jaebum7396/chat) : 채팅 API - ([swagger](http://www.aflk-chat.com:8000/chat/swagger-ui/))
 * [socket-streamer](https://github.com/jaebum7396/socket-streamer) : 웹 소켓 서버
 * [file-storage](https://github.com/jaebum7396/file-storage.git) : 파일 처리 서버 
-  
-* [auth](https://github.com/jaebum7396/auth) : 권한(로그인) 서비스([swagger](http://52.79.162.165:8000/auth/swagger-ui/)) -- 삭제 예정(설계상 user와 상당부분 겹침)
