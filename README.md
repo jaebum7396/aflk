@@ -45,4 +45,4 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 <img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/1b20320d-832b-4d82-a934-c68ecad49ee2' />
 <img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/0252f455-5da0-4649-b0a8-057e13cf1ed7' />
 
-UI 아이콘 디자인 도움 thanks to thdus12
+UI 아이콘 디자인 도움 thanks to [thdus12](https://github.com/thdus12)
