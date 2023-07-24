@@ -43,8 +43,8 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 * [file-storage](https://github.com/jaebum7396/file-storage.git) : 파일 처리 서버 
 
 ### 화면
-<img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/1b20320d-832b-4d82-a934-c68ecad49ee2' />
-<img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/0252f455-5da0-4649-b0a8-057e13cf1ed7' />
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/ba5baf9c-ec53-42dc-9219-d05c3d0e6435' />
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e2677fcb-66d8-4fdc-ad6c-e63698a7d28f' />
 <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e13e85de-6a3c-4a50-9ec0-d8913aede844' />
 <img src = 'https://github.com/jaebum7396/aflk/assets/38182229/dd016ccc-b714-43da-a352-ea66507f3f0d' />
 
