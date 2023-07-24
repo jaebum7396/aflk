@@ -43,9 +43,9 @@ Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA,
 * [file-storage](https://github.com/jaebum7396/file-storage.git) : 파일 처리 서버 
 
 ### 화면
-<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/ba5baf9c-ec53-42dc-9219-d05c3d0e6435' />
-<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e2677fcb-66d8-4fdc-ad6c-e63698a7d28f' />
-<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e13e85de-6a3c-4a50-9ec0-d8913aede844' />
-<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/dd016ccc-b714-43da-a352-ea66507f3f0d' />
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/ba5baf9c-ec53-42dc-9219-d05c3d0e6435' style='width:45%'/>
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e2677fcb-66d8-4fdc-ad6c-e63698a7d28f' style='width:45%' />
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/e13e85de-6a3c-4a50-9ec0-d8913aede844' style='width:45%' />
+<img src = 'https://github.com/jaebum7396/aflk/assets/38182229/dd016ccc-b714-43da-a352-ea66507f3f0d' style='width:45%' />
 
 UI 아이콘 디자인 도움 thanks to [thdus12](https://github.com/thdus12)
