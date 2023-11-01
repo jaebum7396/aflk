@@ -23,7 +23,7 @@
 
 ### 구현방법
 ```
-Java, Spring Boot, 스프링 시큐리티, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis
+Java, Spring Boot, 스프링 클라우드, Jenkins, JPA, mysql, Gradle, Docker, redis
 ```
 ### 프로젝트 구성
 <img src = 'https://github.com/jaebum7396/AFLK/assets/38182229/56b15140-616c-48cc-8ead-0c11424c5be6' style='width:100%' />
